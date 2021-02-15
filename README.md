@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Víctor C. Fernández </h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/victorcfernandez/">Víctor C. Fernández</a> </h1>
 <h3 align="center">A passionate SW Engineer/Developer</h3>
 <h3 align="center">I'm currently working on PetPal, an app for shelter's pet adoptions<br>
 built on Flutter</h3>
