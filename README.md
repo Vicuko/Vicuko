@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicuko&show_icons=true&count_private=true?theme=radical))"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vicuko&show_icons=true&count_private=true?theme=radical))"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicuko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicuko"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vicuko"/>
 </p>
+<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=vicuko" /> </h6>
 <!--
 **Vicuko/Vicuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
