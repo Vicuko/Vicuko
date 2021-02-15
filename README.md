@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-[![Vicuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicuko&show_icons=true&count_private=true?theme=cobalt))](https://github.com/vicuko/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=vicuko&show_icons=true&count_private=true?theme=cobalt))" alt="vicuko"/>
 </p>
 <!--
 **Vicuko/Vicuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
