@@ -1,7 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Víctor C. Fernández </h1>
 <h3 align="center">A passionate SW Engineer/Developer</h3>
-<h3 align="center">I'm currently working on PetPal, an app for shelter's pet adoptions</h3>
-
+<h3 align="center">I'm currently working on PetPal, an app for shelter's pet adoptions<br>
+built on Flutter</h3>
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1aeGJ3MmU5IDLobrqQqwYlIzil-pCF-1R"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vicuko&show_icons=true&count_private=true?theme=radical))"/>
 </p>
