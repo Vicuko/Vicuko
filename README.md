@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Vicuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicuko&count_private=true?theme=THEME_NAME))](https://github.com/vicuko/github-readme-stats)
+[![Vicuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicuko&show_icons=true&count_private=true?theme=radical))](https://github.com/vicuko/github-readme-stats)
 
 <!--
 **Vicuko/Vicuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
