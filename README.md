@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Víctor C. Fernández
 ### A passionate SW Engineer/Developer
 
-<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=vicuko" /> </h6>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vicuko&show_icons=true&count_private=true?theme=radical))"/>
 </p>
@@ -12,6 +10,9 @@
 <p align="center">
 </p>
 
+
+
+<h6 align="right"> <img src="https://komarev.com/ghpvc/?username=vicuko" /> </h6>
 <!--
 **Vicuko/Vicuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
