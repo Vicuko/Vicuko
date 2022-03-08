@@ -5,7 +5,7 @@
   
 </h4>
 
-<h4 align="center">I am also a 🐍 lover for AI & ML and love learning new technologies</h4> 
+<h4 align="center">I am also a 🐍 lover for AI & ML and always looking for new technologies🧐</h4> 
 
 <h4 align="center">Fellow and student @ <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> and @ <a href="https://42.fr/en/homepage/">42 school</a></h4>
 
